@@ -4,9 +4,9 @@
 > CapnMadrick is the only player who can win this game. This rule cannot be amended without the approval of CapnMadrick.
 
 #### 101: Victory Condition
-> a) If a player has 100 or more points the game ends.
+> a) If an active player has 100 or more points the game ends.
 >
-> b) When the game ends, the player with the most points is considered the winner.
+> b) When the game ends, the active player with the most points is considered the winner.
 
 
 
@@ -36,9 +36,11 @@ b) A player may submit an amendment to change their own title. This amendment do
 #### 105: Player Status
 > a) A player has a status that is `active` or `inactive`. 
 >
-> b) A player may submit an amendment to change their own status. This amendment is considered approved immediately upon submitting.
+> b) A player may submit an amendment to change their own status from active to inactive. This amendment is considered approved immediately upon submitting.
 >
-> c) An active player may submit an amendment to change the status of another player. This amendment is voted on in accordance with the current rules on amendments.
+> c) A player may submit an amendment to change their own status from inactive to active. This amendment is voted on in accordance with the current rules on amendments.
+>
+> d) An active player may submit an amendment to change the status of another player. This amendment is voted on in accordance with the current rules on amendments.
 
 
 
